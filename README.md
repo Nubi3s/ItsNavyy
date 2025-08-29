@@ -29,7 +29,7 @@
 </div>
 
 ###
-<h3>👨‍💻 Programming Languages</h3>
+<h3>Programming Languages: </h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -42,7 +42,7 @@
   </p>
   
 ###
-  <h3>🛠 Tools & Platforms</h3>
+  <h3>Tools & Platforms: </h3>
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
