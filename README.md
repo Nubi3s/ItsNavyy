@@ -1,7 +1,3 @@
-<h1 align="center">- Nubi3s was here -</h1>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDB3N2U1MmZ2MHE0ampqdTVheWZ3M2RrbGh0bnF1dXZvMmZwZHhuNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W0nKnfnDsOeZdjhTuh/giphy.gif"  />
 </div>
